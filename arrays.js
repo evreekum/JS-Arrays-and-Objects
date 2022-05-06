@@ -26,7 +26,7 @@ console.log(number[0]);
 // ==========================================
 const colors = ['groen', 'geel', 'rood', 'paars', 'blauw', 'oranje'];
 
-
+console.log(colors[4]);
 console.log(colors[1]);
 
 

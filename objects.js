@@ -5,7 +5,8 @@ const personalInfo = {
   firstName: 'Evelien',
   lastName: 'van Reekum',
   age: 32,
-  dob: '04-07-1989'
+  // dob: '04-07-1989'
+  dob: new Date(1989,7, 4),
 }
 
 console.log(personalInfo);
